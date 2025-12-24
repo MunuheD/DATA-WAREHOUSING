@@ -134,7 +134,8 @@ A Drill-Down Python function, drilldown_category (), is used to query the databa
 
 ### Loading
 - `optimized_load()`: Batch loading using `executemany()` for efficiency
-- In the loading stage, the function optimized_load () helps to seamlessly integrate extracted data and transformed data and load it efficiently into the database. It loads huge datasets in chunks to reduce memory overload. The function accesses each data batch, dynamically creates an SQL INSERT statement, and executes huge entries using executemany() code enhancement. THIS IS THE FINAL SQLITE DATABASE FILE THAT WAS FINALLY CREATED BY THE ETL PIPELINE CREATED: GOOGLE DRIVE LINK:https://drive.google.com/file/d/1mTQqNqgwjBW-40n8AHFhMcAA-81CPE9a/view?usp=sharing
+- In the loading stage, the function optimized_load () helps to seamlessly integrate extracted data and transformed data and load it efficiently into the database. It loads huge datasets in chunks to reduce memory overload. The function accesses each data batch, dynamically creates an SQL INSERT statement, and executes huge entries using executemany() code enhancement.
+- THIS IS THE FINAL SQLITE DATABASE FILE THAT WAS FINALLY CREATED BY THE ETL PIPELINE CREATED: GOOGLE DRIVE LINK:https://drive.google.com/file/d/1mTQqNqgwjBW-40n8AHFhMcAA-81CPE9a/view?usp=sharing
 
 Visualization and Insights
 
