@@ -1,19 +1,4 @@
-Comparing changes
-Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also  or learn more about diff comparisons.
-...
- 1 commit
- 1 file changed
- 1 contributor
-Commits on Dec 24, 2025
-Update README.md
 
-@MunuheD
-MunuheD authored 6 minutes ago
- Showing  with 71 additions and 52 deletions.
- 123 changes: 71 additions & 52 deletions123  
-README.md
-Original file line number	Diff line number	Diff line change
-@@ -1,75 +1,94 @@
 # Data Warehouse in Retail and E-commerce Industry
 DATA WAREHOUSE IN RETAIL AND E-COMMERCE INDUSTRY
 Executive Summary
