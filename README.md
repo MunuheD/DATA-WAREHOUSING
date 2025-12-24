@@ -1,7 +1,5 @@
 
 # Data Warehouse in Retail and E-commerce Industry
-DATA WAREHOUSE IN RETAIL AND E-COMMERCE INDUSTRY
-Executive Summary
 
 ## Executive Summary
 Data warehousing is a critical step towards building a large and scalable analytics database for retail and e-commerce. A data warehouse empowers businesses with huge historical data that is accessible for analysis to generate trends that help businesses make informed decisions. This project aims to source three datasets from Kaggle: one is a relational database, another is a CSV file, and the last one is a JSON file, and uses them to generate a database that is based on the Inmon Model. In this way, the project mimics a real-life retail or e-commerce business that sources data from relational databases, flat files, and API sources. The work follows the ETL framework using Python codes to extract the data from Olist SQLite, Online Sales CSV, and Flipkart JSON, to transform it based on the data warehouse architecture created, and then load it to a newly created database. Also, the work conducts OLAP operations and visualizations on the newly created database.
