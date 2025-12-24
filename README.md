@@ -58,4 +58,4 @@ This work generates three subject areas: sales, products, and customers, matchin
 2. Product ID `165f86fe8b799a708a20ee4ba125c289`: $17,820.91
 3. Product ID `601a360bd2a916ecef0e88de72a6531a`: $15,159.81
 
-## 📁 Repository Structure
+
