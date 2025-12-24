@@ -9,6 +9,20 @@ Data warehousing is a critical step towards building a large and scalable analyt
 - **Database**: SQLite (`retail_warehouse.db`)
 - **ETL Pipeline**: Python-based
 - **Data Sources**: Olist SQLite, Online Sales CSV, Flipkart JSON
+- Datasets Used:
+
+
+a) Relational Database (SQL):
+- Data file from relational database 
+- Link: https://drive.google.com/file/d/1JZTot-4VtEonFDx_I1nQCQgi6_Zs2OtK/view?usp=sharing
+
+b) Flat File (CSV):
+- Data file from a flat file 
+- Link: https://drive.google.com/file/d/1fCrK6mXFSADNJFajQcX9EQh9SnEYyF4I/view?usp=sharing
+
+c) API Data (JSON):
+- Data file from API 
+- Link: https://drive.google.com/file/d/1s5PEE6coFr9Yre8-EFxyxPcwOira_-LP/view?usp=sharing
 
 ## 🏗️ Architecture Design
 
